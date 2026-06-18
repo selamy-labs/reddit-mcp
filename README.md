@@ -1,5 +1,8 @@
 # reddit-mcp
 
+[![CI](https://github.com/selamy-labs/reddit-mcp/actions/workflows/test.yml/badge.svg)](https://github.com/selamy-labs/reddit-mcp/actions/workflows/test.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
 `reddit-mcp` is a small [Model Context Protocol](https://modelcontextprotocol.io)
 server that exposes **read-only Reddit research** as typed tools. It turns the
 "call Reddit" capability that previously lived as prose in the `reddit-research`
