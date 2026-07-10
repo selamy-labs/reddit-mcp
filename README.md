@@ -121,6 +121,9 @@ tests with canned fixtures. The default `UrllibTransport` uses only the standard
 library, so the core package has zero runtime dependencies; the `mcp` SDK is an
 optional extra needed only to run the server.
 
+See the [system context diagram](docs/architecture/system-context.md) for the
+runtime boundaries and request flow.
+
 ## Development
 
 ```bash
